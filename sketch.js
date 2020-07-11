@@ -6,8 +6,8 @@ var dog,happydDog,database,foodStock,foodS;
 
 function preload(){
   //load images here
-  dogimg = loadImage("images/dogimg.png");
-  dogimg2 = loadImage("images/dogimg1.png");
+  dogimg = loadImage("images/dogImg.png");
+  dogimg2 = loadImage("images/dogImg1.png");
 }
 
 function setup() {
